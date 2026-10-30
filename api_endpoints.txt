@@ -1,0 +1,6 @@
+# API Endpoints & Workers.dev URLs Found
+
+## Regular API Endpoints:
+
+https://apis.google.com
+
